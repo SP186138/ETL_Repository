@@ -1,0 +1,3 @@
+.logon IPADDress/userid,password
+select count(*) from employee;
+.logoff

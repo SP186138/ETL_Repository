@@ -1,0 +1,6 @@
+DEALERSHIP_ID,REGION,CUSTOMER_NO,FIRSTNAME,LASTNAME,ADDRESS,CITY,STATE,ZIP,COUNTRY,PHONE_NUMBER,GENDER,INCOME,EMAIL,AGE,DATE
+11 ,Central,61  ,Dat                 ,Lu                  ,3379 Aztec Rd                           ,Dallas         ,Texas          ,30340,United States,7704521204,M,90000000,ldat@xyz.org                            ,160,01/02/2003 00:00:00
+11,Central,95,Jennifer,Ide,2305 Shenandoah Ave Ne,Dallas,Texas,30305,United States,4042661234,F,67000,ijennifer@hotmail.com,47,01/02/2003 00:00:00
+11,Central,148  ,Tesfalem,Andemicael,1895 Curtis Dr Ne,Dallas,Texas,30319,United States,4046335223,F,15000,atesfalem@geocities.com,32,01/02/2003 00:00:00
+11,Central,164,Everett,Roach,1736 Dyson Dr Ne,Dallas,Texas,30307,United States,4043778939,F,25000,,32,01/02/2003 00:00:00
+11,Central,184,Arthur,Gibert,3543 Cold Springs Ln,Dallas,Texas,30341,United States,7704586184,M,75000,garthur@xyz.org,18,01/02/2003 00:00:00
