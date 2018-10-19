@@ -3,3 +3,6 @@ def party:
 
 def product:
     pass
+
+def agreement:
+    pass
